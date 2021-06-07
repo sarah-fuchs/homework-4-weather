@@ -9,11 +9,11 @@ export default function Temperature() {
           <span>
             <strong id="temperature"> 2 </strong>
             <small className="units">
-              <a href="https://google.com" id="celsius-link">
+              <a href="https://google.com" rel="noreferrer" id="celsius-link">
                 °C{" "}
               </a>{" "}
               |{" "}
-              <a href="https://google.com" id="fahrenheit-link">
+              <a href="https://google.com" rel="noreferrer" id="fahrenheit-link">
                 °F
               </a>
             </small>
